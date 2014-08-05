@@ -1,0 +1,36 @@
+@CHARSET "ISO-8859-1";
+html {
+	background: url('http://subtlepatterns.com/patterns/wood_pattern.png');
+	font-size: 10pt;
+}
+h1
+{
+    text-shadow: 0 1px 0 rgba(255, 255, 255, .7), 0px 2px 0 rgba(0, 0, 0, .5);
+    text-transform: uppercase;
+    text-align: center;
+    color: #666;
+    margin: 0 0 30px 0;
+    letter-spacing: 4px;
+    font: normal 26px/1 Verdana, Helvetica;
+    position: relative;
+}
+
+#connexion 
+	{
+  
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  position:relative;
+  top:25%;
+  
+   box-shadow:
+          0 0 2px rgba(0, 0, 0, 0.2),  
+          0 1px 1px rgba(0, 0, 0, .2);
+          
+   
+    border: 1px dashed #ccc;
+  
+   
+}
+

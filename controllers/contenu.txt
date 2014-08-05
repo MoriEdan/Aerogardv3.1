@@ -1,0 +1,40 @@
+---> table client :
+
+ajout colonne 'envoimail' : reponse oui ou non
+
+ajout colonne 'variable2' : reponse 1 ou 2 base 1
+
+ajout colonne 'variable3' : réponse 0 à 100 base 50
+
+---> table animal
+
+ajout colonne repro
+
+supression d'une colonne qui sert à rien
+
+---> table facturation
+// utilisation du fichier : php/php temporaire/gestion_detail_facturation3.php  pour la création
+création de 2 colonnes text : 
+- acte  (defaut : [])
+- medic (defaut : []) (à terme supprimer detail)
+
+-----> table identification
+ajout colonne 'ordre' : numero ordre
+ajout colonne 'siret' : numero siret
+ajout colonne 'num_tva' : numero tva 
+
+----> table consultation
+création colonne 'temperature' : varchar 6
+création colonne 'poids' : varchar 6
+création colonne 'freq_cardiaque' : varchar 6
+
+----> table cp_autocomplete
+à copier bètement
+
+-----> table identification
+ALTER TABLE  `identification` ADD  `conduite_suivre` TEXT NOT NULL ,
+ADD  `choix_specialiste` TEXT NOT NULL ,
+ADD  `mention_speciale` TEXT NOT NULL
+
+---> table remise
+ADD `numero_remise` varchar 30

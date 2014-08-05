@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<xml>
+<produit>
+<produitID>XLA001</produitID><cip>7742940</cip><libelle>4 XLA 2 X 10 L</libelle><categ>1</categ><prixhteuro>118.04</prixhteuro><poids>21.70</poids><codelabo>071</codelabo><liblabo>AXIENCE</liblabo><uv>1</uv><type>F</type><stype>02</stype><sstype>E</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RAUTR</fam>
+</produit>
+<produit>
+<produitID>XLA002</produitID><cip>7710727</cip><libelle>4 XLA 2 X 20 L</libelle><categ>1</categ><prixhteuro>213.64</prixhteuro><poids>43.00</poids><codelabo>071</codelabo><liblabo>AXIENCE</liblabo><uv>1</uv><type>F</type><stype>02</stype><sstype>E</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RAUTR</fam>
+</produit>
+<produit>
+<produitID>ADV011</produitID><cip>6772672</cip><libelle>A 180 100 ML</libelle><categ>1</categ><prixhteuro>123.31</prixhteuro><poids>0.23</poids><codelabo>037</codelabo><liblabo>ZOETIS</liblabo><uv>1</uv><type>D</type><stype>02</stype><sstype>D</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RABIN</fam>
+<promos>
+<promo><uv>1</uv><dd>00000000</dd><df>20131231</df><prixnetcalculeeuro>122.72</prixnetcalculeeuro><libellepromo>A 180 100 ML</libellepromo><code>1</code><base>4</base><type>3</type><valeuro>0.48</valeuro></promo>
+</promos>
+</produit>
+<produit>
+<produitID>ADV010</produitID><cip>6772666</cip><libelle>A 180 50 ML</libelle><categ>1</categ><prixhteuro>70.70</prixhteuro><poids>0.13</poids><codelabo>037</codelabo><liblabo>ZOETIS</liblabo><uv>1</uv><type>D</type><stype>02</stype><sstype>D</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RABIN</fam>
+<promos>
+<promo><uv>1</uv><dd>00000000</dd><df>20131231</df><prixnetcalculeeuro>70.04</prixnetcalculeeuro><libellepromo>A 180 50 ML</libellepromo><code>1</code><base>4</base><type>3</type><valeuro>0.93</valeuro></promo>
+</promos>
+</produit>
+<produit>
+<produitID>AAC001</produitID><cip>4790111</cip><libelle>A.A CALCI+D3  4X100 ML</libelle><categ>1</categ><prixhteuro>30.20</prixhteuro><poids>0.88</poids><codelabo>315</codelabo><liblabo>TECHNOVET</liblabo><uv>1</uv><type>R</type><stype>03</stype><sstype>A</sstype><cmaj>M</cmaj><crempl/><ttva>7.00</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RAUTR</fam>
+</produit>
+<produit>
+<produitID>AAC002</produitID><cip>4790128</cip><libelle>A.A CALCIPHOS+D3  4X100 ML</libelle><categ>1</categ><prixhteuro>33.52</prixhteuro><poids>0.88</poids><codelabo>315</codelabo><liblabo>TECHNOVET</liblabo><uv>1</uv><type>R</type><stype>03</stype><sstype>A</sstype><cmaj>M</cmaj><crempl/><ttva>7.00</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RAUTR</fam>
+</produit>
+<produit>
+<produitID>ABA004</produitID><cip>8000034</cip><libelle>Abaisse-langue en bois Bte 100</libelle><categ>3</categ><prixhteuro>0.95</prixhteuro><poids>0.31</poids><codelabo>000</codelabo><liblabo>MATERIEL</liblabo><uv>1</uv><type>41</type><stype>45</stype><sstype></sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>B</prod><fam>KUINS</fam>
+</produit>
+<produit>
+<produitID>ABA001</produitID><cip>8000005</cip><libelle>Abaisse-langue électrique Starlite 2x1,5V avec 2 spatules en plastique</libelle><categ>3</categ><prixhteuro>32.50</prixhteuro><poids>0.18</poids><codelabo>000</codelabo><liblabo>MATERIEL</liblabo><uv>1</uv><type>41</type><stype>45</stype><sstype></sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>B</prod><fam>KINST</fam>
+</produit>
+<produit>
+<produitID>ABC001</produitID><cip>8929669</cip><libelle>ABCEDYL SOL BUV 30 ML</libelle><categ>1</categ><prixhteuro>5.59</prixhteuro><poids>0.08</poids><codelabo>062</codelabo><liblabo>BOIRON</liblabo><uv>1</uv><type>Q</type><stype>01</stype><sstype></sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>1</prod><fam>CHOME</fam>
+</produit>
+<produit>
+<produitID>ABR700</produitID><cip>8928581</cip><libelle>Abri pour reptile - aspect naturel - L30xP25xH7cm</libelle><categ>3</categ><prixhteuro>6.96</prixhteuro><poids>3.00</poids><codelabo>000</codelabo><liblabo>MATERIEL</liblabo><uv>1</uv><type>62</type><stype>70</stype><sstype></sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>D</prod><fam>BIACC</fam>
+<promos>
+<promo><uv>1</uv><dd>20130901</dd><df>20130930</df><prixnetcalculeeuro>6.26</prixnetcalculeeuro><libellepromo>Abri pour reptile - aspect naturel - L30xP25xH7cm</libellepromo><code>1</code><base>1</base><type>3</type><valeuro>10.05</valeuro></promo>
+</promos>
+</produit>
+<produit>
+<produitID>ABS404</produitID><cip>8894327</cip><libelle>Absorbant gélifiant surfaces poudre 1 l</libelle><categ>3</categ><prixhteuro>5.41</prixhteuro><poids>0.00</poids><codelabo>000</codelabo><liblabo>MATERIEL</liblabo><uv>1</uv><type>71</type><stype>15</stype><sstype>10</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>B</prod><fam>KENTR</fam>
+</produit>
+<produit>
+<produitID>ACA202</produitID><cip>6888469</cip><libelle>ACADREX 60 1 L</libelle><categ>1</categ><prixhteuro>50.87</prixhteuro><poids>1.00</poids><codelabo>001</codelabo><liblabo>NOVARTIS SANTE ANIMALE</liblabo><uv>1</uv><type>H</type><stype>05</stype><sstype>A</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RAPEX</fam>
+</produit>
+<produit>
+<produitID>ACA000</produitID><cip>6900058</cip><libelle>ACADREX 60 100 ML</libelle><categ>1</categ><prixhteuro>10.62</prixhteuro><poids>0.10</poids><codelabo>001</codelabo><liblabo>NOVARTIS SANTE ANIMALE</liblabo><uv>1</uv><type>H</type><stype>05</stype><sstype>A</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RAPEX</fam>
+<promos>
+<promo><uv>1</uv><dd>00000000</dd><df>20131231</df><prixnetcalculeeuro>10.42</prixnetcalculeeuro><libellepromo>ACADREX 60 100 ML</libellepromo><code>1</code><base>6</base><type>3</type><valeuro>1.84</valeuro></promo>
+</promos>
+</produit>
+<produit>
+<produitID>ACC702</produitID><cip>8896823</cip><libelle>Accouple chaîne métal GM</libelle><categ>3</categ><prixhteuro>2.87</prixhteuro><poids>0.06</poids><codelabo>000</codelabo><liblabo>MATERIEL</liblabo><uv>1</uv><type>61</type><stype>20</stype><sstype></sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>D</prod><fam>BIACC</fam>
+</produit>
+<produit>
+<produitID>ACC701</produitID><cip>8896817</cip><libelle>Accouple chaîne métal PM</libelle><categ>3</categ><prixhteuro>2.70</prixhteuro><poids>0.06</poids><codelabo>000</codelabo><liblabo>MATERIEL</liblabo><uv>1</uv><type>61</type><stype>20</stype><sstype></sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>D</prod><fam>BIACC</fam>
+</produit>
+<produit>
+<produitID>ACC700</produitID><cip>8884783</cip><libelle>Accumulateur pour Mini Moteur Acculan 3Ti</libelle><categ>3</categ><prixhteuro>723.04</prixhteuro><poids>0.00</poids><codelabo>536</codelabo><liblabo>BRAUN AESCULAP</liblabo><uv>1</uv><type>51</type><stype>15</stype><sstype></sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock>H</stock><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>M</prod><fam>MORTH</fam>
+</produit>
+<produit>
+<produitID>ACC002</produitID><cip>8084290</cip><libelle>Accus rechargeable pour balance-plateau pour petits animaux</libelle><categ>3</categ><prixhteuro>32.18</prixhteuro><poids>0.10</poids><codelabo>000</codelabo><liblabo>MATERIEL</liblabo><uv>1</uv><type>31</type><stype>20</stype><sstype>25</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>M</prod><fam>MEQUI</fam>
+</produit>
+<produit>
+<produitID>ACE002</produitID><cip>8938728</cip><libelle>ACEGON 50µG-ML 10X6 ML</libelle><categ>1</categ><prixhteuro>97.35</prixhteuro><poids>0.33</poids><codelabo>037</codelabo><liblabo>ZOETIS</liblabo><uv>1</uv><type>N</type><stype>03</stype><sstype>H</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RHORM</fam>
+</produit>
+<produit>
+<produitID>ACE003</produitID><cip>8938734</cip><libelle>ACEGON 50µG-ML 20ML</libelle><categ>1</categ><prixhteuro>34.52</prixhteuro><poids>0.06</poids><codelabo>037</codelabo><liblabo>ZOETIS</liblabo><uv>1</uv><type>N</type><stype>03</stype><sstype>H</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RHORM</fam>
+<promos>
+<promo><uv>1</uv><dd>00000000</dd><df>20131231</df><prixnetcalculeeuro>34.37</prixnetcalculeeuro><libellepromo>ACEGON 50µG-ML 20ML</libellepromo><code>1</code><base>6</base><type>3</type><valeuro>0.43</valeuro></promo>
+</promos>
+</produit>
+<produit>
+<produitID>ACE001</produitID><cip>6919750</cip><libelle>ACETAL 1 L</libelle><categ>1</categ><prixhteuro>8.21</prixhteuro><poids>1.12</poids><codelabo>005</codelabo><liblabo>BIOVE</liblabo><uv>1</uv><type>P</type><stype>03</stype><sstype>Z</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RDIGE</fam>
+</produit>
+<produit>
+<produitID>ACI202</produitID><cip>8817806</cip><libelle>ACIDE BORIQUE 1 KG</libelle><categ>1</categ><prixhteuro>6.23</prixhteuro><poids>1.20</poids><codelabo>100</codelabo><liblabo>PRODUIT DE BASE</liblabo><uv>1</uv><type>E</type><stype>90</stype><sstype>Z</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock>H</stock><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>4</prod><fam>TDROG</fam>
+</produit>
+<produit>
+<produitID>ACI006</produitID><cip>8894758</cip><libelle>ACIDE TRICHLORACETIQUE 30% 60 ML</libelle><categ>1</categ><prixhteuro>7.36</prixhteuro><poids>0.15</poids><codelabo>100</codelabo><liblabo>PRODUIT DE BASE</liblabo><uv>1</uv><type>F</type><stype>01</stype><sstype>C</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>4</prod><fam>TDROG</fam>
+</produit>
+<produit>
+<produitID>ACI422</produitID><cip>8940731</cip><libelle>Acide urique pour Catalyst Boîte 12</libelle><categ>3</categ><prixhteuro>38.24</prixhteuro><poids>0.00</poids><codelabo>088</codelabo><liblabo>IDEXX</liblabo><uv>1</uv><type>36</type><stype>45</stype><sstype>15</sstype><cmaj>C</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>T</docextr><comment/><prod>B</prod><fam>KULAB</fam>
+</produit>
+<produit>
+<produitID>ACI421</produitID><cip>8852671</cip><libelle>Acide urique pour VetTest Boite 12</libelle><categ>3</categ><prixhteuro>37.67</prixhteuro><poids>0.00</poids><codelabo>088</codelabo><liblabo>IDEXX</liblabo><uv>1</uv><type>36</type><stype>45</stype><sstype>15</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock>H</stock><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>T</docextr><comment/><prod>B</prod><fam>KULAB</fam>
+</produit>
+<produit>
+<produitID>ACI420</produitID><cip>8852665</cip><libelle>Acide urique pour VetTest X1</libelle><categ>3</categ><prixhteuro>3.33</prixhteuro><poids>0.00</poids><codelabo>088</codelabo><liblabo>IDEXX</liblabo><uv>1</uv><type>36</type><stype>45</stype><sstype>15</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>T</docextr><comment/><prod>B</prod><fam>KULAB</fam>
+<promos>
+<promo><uv>1</uv><dd>00000000</dd><df>20131231</df><prixnetcalculeeuro>3.06</prixnetcalculeeuro><libellepromo>Acide urique pour VetTest X1</libellepromo><code>1</code><base>25</base><type>3</type><valeuro>7.96</valeuro></promo>
+</promos>
+</produit>
+<produit>
+<produitID>ACI010</produitID><cip>9694263</cip><libelle>ACIDO-DIGEST 14X320 G</libelle><categ>1</categ><prixhteuro>87.58</prixhteuro><poids>5.10</poids><codelabo>315</codelabo><liblabo>TECHNOVET</liblabo><uv>1</uv><type>R</type><stype>03</stype><sstype>Z</sstype><cmaj>M</cmaj><crempl/><ttva>7.00</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RAUTR</fam>
+</produit>
+<produit>
+<produitID>ACI201</produitID><cip>7358673</cip><libelle>ACIDOPHYTON 2X210 G</libelle><categ>1</categ><prixhteuro>9.24</prixhteuro><poids>0.38</poids><codelabo>059</codelabo><liblabo>VETOQUINOL</liblabo><uv>1</uv><type>R</type><stype>03</stype><sstype>Z</sstype><cmaj>M</cmaj><crempl/><ttva>7.00</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RDIGE</fam>
+</produit>
+<produit>
+<produitID>ACI002</produitID><cip>7358696</cip><libelle>ACIDOPHYTON 48X210 G</libelle><categ>1</categ><prixhteuro>164.37</prixhteuro><poids>10.10</poids><codelabo>059</codelabo><liblabo>VETOQUINOL</liblabo><uv>1</uv><type>R</type><stype>03</stype><sstype>Z</sstype><cmaj>M</cmaj><crempl/><ttva>7.00</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RDIGE</fam>
+</produit>
+<produit>
+<produitID>ACI110</produitID><cip>8000235</cip><libelle>Acier D2 T 1-2 23mm monofil 75 cm Acier Ethicon F2706 NR</libelle><categ>3</categ><prixhteuro>3.86</prixhteuro><poids>0.01</poids><codelabo>017</codelabo><liblabo>ELANCO</liblabo><uv>1</uv><type>21</type><stype>20</stype><sstype>15</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>B</prod><fam>KSUTU</fam>
+<promos>
+<promo><uv>1</uv><dd>00000000</dd><df>20131231</df><prixnetcalculeeuro>3.20</prixnetcalculeeuro><libellepromo>Acier D2 T 1-2 23mm monofil 75 cm Acier Ethicon F2706 NR</libellepromo><code>1</code><base>12</base><type>3</type><valeuro>17.05</valeuro></promo>
+</promos>
+</produit>
+<produit>
+<produitID>ACI113</produitID><cip>8000258</cip><libelle>Acier D2 T 3-8 19mm monofil 75 cm Acier Ethicon F2707 NR</libelle><categ>3</categ><prixhteuro>4.11</prixhteuro><poids>0.01</poids><codelabo>017</codelabo><liblabo>ELANCO</liblabo><uv>1</uv><type>21</type><stype>20</stype><sstype>15</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>B</prod><fam>KSUTU</fam>
+<promos>
+<promo><uv>1</uv><dd>00000000</dd><df>20131231</df><prixnetcalculeeuro>3.42</prixnetcalculeeuro><libellepromo>Acier D2 T 3-8 19mm monofil 75 cm Acier Ethicon F2707 NR</libellepromo><code>1</code><base>12</base><type>3</type><valeuro>16.72</valeuro></promo>
+</promos>
+</produit>
+<produit>
+<produitID>ACI114</produitID><cip>8000264</cip><libelle>Acier D3 T 1-2 23mm monofil 75 cm Acier Ethicon F2709 NR</libelle><categ>3</categ><prixhteuro>3.94</prixhteuro><poids>0.01</poids><codelabo>017</codelabo><liblabo>ELANCO</liblabo><uv>1</uv><type>21</type><stype>20</stype><sstype>15</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>B</prod><fam>KSUTU</fam>
+<promos>
+<promo><uv>1</uv><dd>00000000</dd><df>20131231</df><prixnetcalculeeuro>3.28</prixnetcalculeeuro><libellepromo>Acier D3 T 1-2 23mm monofil 75 cm Acier Ethicon F2709 NR</libellepromo><code>1</code><base>12</base><type>3</type><valeuro>16.73</valeuro></promo>
+</promos>
+</produit>
+<produit>
+<produitID>ACI111</produitID><cip>8000241</cip><libelle>Acier D4 T 1-2 40mm monofil 75 cm Acier Ethicon F2711 NR</libelle><categ>3</categ><prixhteuro>4.27</prixhteuro><poids>0.01</poids><codelabo>017</codelabo><liblabo>ELANCO</liblabo><uv>1</uv><type>21</type><stype>20</stype><sstype>15</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>B</prod><fam>KSUTU</fam>
+<promos>
+<promo><uv>1</uv><dd>00000000</dd><df>20131231</df><prixnetcalculeeuro>3.54</prixnetcalculeeuro><libellepromo>Acier D4 T 1-2 40mm monofil 75 cm Acier Ethicon F2711 NR</libellepromo><code>1</code><base>12</base><type>3</type><valeuro>17.16</valeuro></promo>
+</promos>
+</produit>
+<produit>
+<produitID>ACT027</produitID><cip>6769144</cip><libelle>ACTI COLI 2 MUI 1 L</libelle><categ>1</categ><prixhteuro>14.12</prixhteuro><poids>1.14</poids><codelabo>005</codelabo><liblabo>BIOVE</liblabo><uv>1</uv><type>E</type><stype>90</stype><sstype>C</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RABOR</fam>
+<promos>
+<promo><uv>1</uv><dd>00000000</dd><df>20131231</df><prixnetcalculeeuro>13.62</prixnetcalculeeuro><libellepromo>ACTI COLI 2 MUI 1 L</libellepromo><code>1</code><base>10</base><type>3</type><valeuro>3.54</valeuro></promo>
+</promos>
+</produit>
+<produit>
+<produitID>ACT025</produitID><cip>6769121</cip><libelle>ACTI COLI 2 MUI 100 ML</libelle><categ>1</categ><prixhteuro>4.22</prixhteuro><poids>0.20</poids><codelabo>005</codelabo><liblabo>BIOVE</liblabo><uv>1</uv><type>E</type><stype>90</stype><sstype>C</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RABOR</fam>
+</produit>
+<produit>
+<produitID>ACT028</produitID><cip>6769150</cip><libelle>ACTI COLI 2 MUI 5 L</libelle><categ>1</categ><prixhteuro>71.28</prixhteuro><poids>5.46</poids><codelabo>005</codelabo><liblabo>BIOVE</liblabo><uv>1</uv><type>E</type><stype>90</stype><sstype>C</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock>H</stock><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RABOR</fam>
+</produit>
+<produit>
+<produitID>ACT006</produitID><cip>6972804</cip><libelle>ACTI COLI B 1 KG</libelle><categ>1</categ><prixhteuro>12.83</prixhteuro><poids>1.09</poids><codelabo>005</codelabo><liblabo>BIOVE</liblabo><uv>1</uv><type>E</type><stype>90</stype><sstype>B</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RABOR</fam>
+<promos>
+<promo><uv>1</uv><dd>00000000</dd><df>20131231</df><prixnetcalculeeuro>12.69</prixnetcalculeeuro><libellepromo>ACTI COLI B 1 KG</libellepromo><code>1</code><base>10</base><type>3</type><valeuro>1.06</valeuro></promo>
+</promos>
+</produit>
+<produit>
+<produitID>ACT207</produitID><cip>6911820</cip><libelle>ACTI COLI B 10X100 G</libelle><categ>1</categ><prixhteuro>22.80</prixhteuro><poids>1.10</poids><codelabo>005</codelabo><liblabo>BIOVE</liblabo><uv>1</uv><type>E</type><stype>90</stype><sstype>B</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RABOR</fam>
+</produit>
+<produit>
+<produitID>ACT013</produitID><cip>6791913</cip><libelle>ACTI COLI B 5 KG</libelle><categ>1</categ><prixhteuro>55.19</prixhteuro><poids>5.15</poids><codelabo>005</codelabo><liblabo>BIOVE</liblabo><uv>1</uv><type>E</type><stype>90</stype><sstype>B</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock>H</stock><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RABOR</fam>
+</produit>
+<produit>
+<produitID>ACT031</produitID><cip>6769233</cip><libelle>ACTI DOXY 5 BT 5 KG</libelle><categ>1</categ><prixhteuro>65.37</prixhteuro><poids>5.10</poids><codelabo>005</codelabo><liblabo>BIOVE</liblabo><uv>1</uv><type>E</type><stype>02</stype><sstype>B</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RABOR</fam>
+</produit>
+<produit>
+<produitID>ACT012</produitID><cip>6919891</cip><libelle>ACTI METHOXINE 500 ML</libelle><categ>1</categ><prixhteuro>26.25</prixhteuro><poids>0.59</poids><codelabo>005</codelabo><liblabo>BIOVE</liblabo><uv>1</uv><type>D</type><stype>02</stype><sstype>E</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RABOR</fam>
+</produit>
+<produit>
+<produitID>ACT008</produitID><cip>7376777</cip><libelle>ACTI SELEN 1 L</libelle><categ>1</categ><prixhteuro>14.13</prixhteuro><poids>1.09</poids><codelabo>005</codelabo><liblabo>BIOVE</liblabo><uv>1</uv><type>R</type><stype>03</stype><sstype>E</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RAUTR</fam>
+</produit>
+<produit>
+<produitID>ACT007</produitID><cip>7830012</cip><libelle>ACTI SELEN 125 ML</libelle><categ>1</categ><prixhteuro>4.60</prixhteuro><poids>0.14</poids><codelabo>005</codelabo><liblabo>BIOVE</liblabo><uv>1</uv><type>R</type><stype>90</stype><sstype>B</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RAUTR</fam>
+</produit>
+<produit>
+<produitID>ACT009</produitID><cip>7376783</cip><libelle>ACTI SELEN 5 L</libelle><categ>1</categ><prixhteuro>64.36</prixhteuro><poids>5.37</poids><codelabo>005</codelabo><liblabo>BIOVE</liblabo><uv>1</uv><type>R</type><stype>03</stype><sstype>E</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RAUTR</fam>
+</produit>
+<produit>
+<produitID>ACT015</produitID><cip>6919945</cip><libelle>ACTI STREPTO 50% 10X100 G</libelle><categ>1</categ><prixhteuro>150.30</prixhteuro><poids>1.18</poids><codelabo>005</codelabo><liblabo>BIOVE</liblabo><uv>1</uv><type>E</type><stype>90</stype><sstype>C</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RABOR</fam>
+</produit>
+<produit>
+<produitID>ACT202</produitID><cip>6919968</cip><libelle>ACTI TETRA B 50% 1 KG</libelle><categ>1</categ><prixhteuro>19.93</prixhteuro><poids>1.15</poids><codelabo>005</codelabo><liblabo>BIOVE</liblabo><uv>1</uv><type>E</type><stype>90</stype><sstype>C</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RABOR</fam>
+</produit>
+<produit>
+<produitID>ACT018</produitID><cip>8939857</cip><libelle>ACTI TETRA B 50% 10 KG</libelle><categ>1</categ><prixhteuro>179.54</prixhteuro><poids>10.08</poids><codelabo>005</codelabo><liblabo>BIOVE</liblabo><uv>1</uv><type>E</type><stype>90</stype><sstype>C</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RABOR</fam>
+</produit>
+<produit>
+<produitID>ACT205</produitID><cip>6722183</cip><libelle>ACTI TETRA B 50% 5 KG</libelle><categ>1</categ><prixhteuro>89.78</prixhteuro><poids>5.10</poids><codelabo>005</codelabo><liblabo>BIOVE</liblabo><uv>1</uv><type>E</type><stype>90</stype><sstype>C</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RABOR</fam>
+</produit>
+<produit>
+<produitID>ACT016</produitID><cip>6919980</cip><libelle>ACTI TETRA I 250 ML</libelle><categ>1</categ><prixhteuro>8.21</prixhteuro><poids>0.50</poids><codelabo>005</codelabo><liblabo>BIOVE</liblabo><uv>1</uv><type>D</type><stype>90</stype><sstype>B</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RABIN</fam>
+</produit>
+<produit>
+<produitID>ACT014</produitID><cip>8938817</cip><libelle>ACTICARP 50MG-ML BOVINS 50 ML</libelle><categ>1</categ><prixhteuro>45.11</prixhteuro><poids>0.13</poids><codelabo>071</codelabo><liblabo>AXIENCE</liblabo><uv>1</uv><type>L</type><stype>90</stype><sstype>A</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RAINF</fam>
+</produit>
+<produit>
+<produitID>ACT001</produitID><cip>6297188</cip><libelle>ACTIFER 5 KG</libelle><categ>1</categ><prixhteuro>44.80</prixhteuro><poids>5.27</poids><codelabo>043</codelabo><liblabo>VIRBAC FRANCE</liblabo><uv>1</uv><type>R</type><stype>90</stype><sstype>D</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RAUTR</fam>
+</produit>
+<produit>
+<produitID>ACT022</produitID><cip>4293915</cip><libelle>ACTIFUGE 15 KG</libelle><categ>1</categ><prixhteuro>96.07</prixhteuro><poids>15.20</poids><codelabo>005</codelabo><liblabo>BIOVE</liblabo><uv>1</uv><type>G</type><stype>05</stype><sstype>A</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RAPIN</fam>
+</produit>
+<produit>
+<produitID>ACT036</produitID><cip>8940748</cip><libelle>ACTIFUGE 25 KG</libelle><categ>1</categ><prixhteuro>147.91</prixhteuro><poids>25.20</poids><codelabo>005</codelabo><liblabo>BIOVE</liblabo><uv>1</uv><type>G</type><stype>05</stype><sstype>A</sstype><cmaj>C</cmaj><crempl/><ttva>19.60</ttva><stock>H</stock><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RAPIN</fam>
+</produit>
+<produit>
+<produitID>ACT210</produitID><cip>6730403</cip><libelle>ACTILIVER I 100 ML</libelle><categ>1</categ><prixhteuro>10.97</prixhteuro><poids>0.21</poids><codelabo>005</codelabo><liblabo>BIOVE</liblabo><uv>1</uv><type>M</type><stype>90</stype><sstype>A</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RDIGE</fam>
+<promos>
+<promo><uv>1</uv><dd>00000000</dd><df>20131231</df><prixnetcalculeeuro>10.67</prixnetcalculeeuro><libellepromo>ACTILIVER I 100 ML</libellepromo><code>1</code><base>10</base><type>3</type><valeuro>2.73</valeuro></promo>
+</promos>
+</produit>
+<produit>
+<produitID>ACT032</produitID><cip>7821415</cip><libelle>ACTIS OMEGA CHIEN 150 ML</libelle><categ>1</categ><prixhteuro>12.67</prixhteuro><poids>0.21</poids><codelabo>047</codelabo><liblabo>SOGEVAL</liblabo><uv>1</uv><type>R</type><stype>01</stype><sstype>A</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>1</prod><fam>CCOMP</fam>
+</produit>
+<produit>
+<produitID>ACT034</produitID><cip>4647951</cip><libelle>ACTIS OMEGA SPECIAL CHAT 50 ML</libelle><categ>1</categ><prixhteuro>10.95</prixhteuro><poids>0.09</poids><codelabo>047</codelabo><liblabo>SOGEVAL</liblabo><uv>1</uv><type>R</type><stype>01</stype><sstype>B</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>1</prod><fam>CCOMP</fam>
+</produit>
+<produit>
+<produitID>ACT004</produitID><cip>7068490</cip><libelle>ACTIS ZINC 30 CPS</libelle><categ>1</categ><prixhteuro>8.89</prixhteuro><poids>0.03</poids><codelabo>047</codelabo><liblabo>SOGEVAL</liblabo><uv>1</uv><type>R</type><stype>01</stype><sstype>C</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>1</prod><fam>CCOMP</fam>
+</produit>
+<produit>
+<produitID>ACT046</produitID><cip>6791304</cip><libelle>ACTISPIRINE 50 1 KG</libelle><categ>1</categ><prixhteuro>8.91</prixhteuro><poids>1.10</poids><codelabo>005</codelabo><liblabo>BIOVE</liblabo><uv>1</uv><type>L</type><stype>90</stype><sstype>B</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RAINF</fam>
+<promos>
+<promo><uv>1</uv><dd>00000000</dd><df>20131231</df><prixnetcalculeeuro>8.64</prixnetcalculeeuro><libellepromo>ACTISPIRINE 50 1 KG</libellepromo><code>1</code><base>10</base><type>3</type><valeuro>3.02</valeuro></promo>
+</promos>
+</produit>
+<produit>
+<produitID>ACT047</produitID><cip>6791310</cip><libelle>ACTISPIRINE 50 5 KG</libelle><categ>1</categ><prixhteuro>35.13</prixhteuro><poids>5.40</poids><codelabo>005</codelabo><liblabo>BIOVE</liblabo><uv>1</uv><type>L</type><stype>90</stype><sstype>B</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RAINF</fam>
+<promos>
+<promo><uv>1</uv><dd>00000000</dd><df>20131231</df><prixnetcalculeeuro>34.93</prixnetcalculeeuro><libellepromo>ACTISPIRINE 50 5 KG</libellepromo><code>1</code><base>4</base><type>3</type><valeuro>0.57</valeuro></promo>
+</promos>
+</produit>
+<produit>
+<produitID>ACT035</produitID><cip>7829894</cip><libelle>ACTIV WASH + POMPE 500 ML</libelle><categ>1</categ><prixhteuro>10.67</prixhteuro><poids>0.55</poids><codelabo>007</codelabo><liblabo>AUDEVARD SA</liblabo><uv>1</uv><type>F</type><stype>02</stype><sstype>E</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>3</prod><fam>EAUTR</fam>
+</produit>
+<produit>
+<produitID>ACT060</produitID><cip>8903977</cip><libelle>ACTIV-MUE 30 CPS</libelle><categ>1</categ><prixhteuro>7.43</prixhteuro><poids>0.08</poids><codelabo>340</codelabo><liblabo>GREENVET</liblabo><uv>1</uv><type>R</type><stype>01</stype><sstype>C</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>1</prod><fam>CCOMP</fam>
+</produit>
+<produit>
+<produitID>ACT053</produitID><cip>4514552</cip><libelle>ACTIVITA IES + 20 INJ. 5 ML</libelle><categ>1</categ><prixhteuro>79.50</prixhteuro><poids>0.30</poids><codelabo>090</codelabo><liblabo>VETALIS TECHNOLOGIES</liblabo><uv>1</uv><type>R</type><stype>90</stype><sstype>Z</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RAUTR</fam>
+</produit>
+<produit>
+<produitID>ACT052</produitID><cip>4394875</cip><libelle>ACTIVITA IES + 56 INJ. 5 ML</libelle><categ>1</categ><prixhteuro>204.68</prixhteuro><poids>0.90</poids><codelabo>090</codelabo><liblabo>VETALIS TECHNOLOGIES</liblabo><uv>1</uv><type>R</type><stype>90</stype><sstype>Z</sstype><cmaj>M</cmaj><crempl/><ttva>19.60</ttva><stock/><dmaj>01/09/13</dmaj><maxcde>100</maxcde><docextr>O</docextr><comment/><prod>2</prod><fam>RAUTR</fam>
+</produit>
+</xml>
